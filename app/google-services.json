@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "325477658153",
+    "firebase_url": "https://abesgram2.firebaseio.com",
+    "project_id": "abesgram2",
+    "storage_bucket": "abesgram2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325477658153:android:2f202fc58353d8d5",
+        "android_client_info": {
+          "package_name": "com.example.kashif.abesgram2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325477658153-0me5oghe1a105g6rricf81u4vm0dcnr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kashif.abesgram2",
+            "certificate_hash": "f1e20a803acf3a244f365c234973bace0fc7e997"
+          }
+        },
+        {
+          "client_id": "325477658153-qgjhpaqc90m627u8cckeven37lt2ihst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhibJPxo3T02UjI2BcbemGp4YrT2GlHOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325477658153-qgjhpaqc90m627u8cckeven37lt2ihst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
